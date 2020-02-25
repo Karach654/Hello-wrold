@@ -1,2 +1,2 @@
 # Hello-wrold
-Write a short description
+They told me to write a short description
